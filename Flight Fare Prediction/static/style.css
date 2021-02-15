@@ -1,0 +1,16 @@
+body {
+    background-color:pink;
+    text-align: center;
+}
+
+.navbar {
+    background-color:purple;
+}
+
+a {
+    color:white;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
